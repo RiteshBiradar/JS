@@ -12,7 +12,7 @@ const arr2 = [4,5,6]
 // console.log(ans2) //returns [ 1, 2, 3, 4, 5, 6 ]
 
 
-//spread (...) iska matlab raheta kholdo pura
+//spread (...) iska matlab raita kholdo pura
 const  ans3 = [...arr1,...arr2]
 console.log(ans3)
 
